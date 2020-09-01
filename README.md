@@ -11,3 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am a SCIENTIST
+
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=5cientist&show_icons=true&hide_border=true&theme=vue" />
