@@ -1,4 +1,7 @@
 ### Hey! I'm Hanshir 👋
+<br>
+
+<hr>
 
 
 
@@ -9,7 +12,7 @@
 <p align="center">I'm a student developer and a technoholic.<br>Currently studying in SRM and pursuing MCA (MASTER IN COMPUTER APPLICATION) <br>I specialize in Web-Development and Flutter <br> I also love Football, designing, etc.<br></p>
 
 
-
+<hr>
 
 Here are some ideas to get you started:
 
