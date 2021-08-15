@@ -9,7 +9,7 @@
  src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif" width="40%"/></p>
  
  
-<p align="center">I'm a student developer and a technoholic.<br>Currently studying in SRM and pursuing MCA (MASTER IN COMPUTER APPLICATION) <br>I specialize in Web-Development and Flutter <br> I also love Football, designing, etc.<br></p>
+<p align="center">I'm a student developer and a technoholic.<br> MCA (MASTER IN COMPUTER APPLICATION) <br>I specialize in Web-Development and Mobile application <br> I also love Football, designing, etc.<br></p>
 
 
 <hr>
@@ -17,7 +17,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I'm working on Full-Stack Web Development and mobile application's
-- 🌱 I’m currently learning Flutter,Angular,vue.js
+- 🌱 I’m currently learning Flutter,React,vue.js
 - 👯 I’m looking to collaborate on web and flutter applicartions
 - 🤔 I’m looking for help with 
 - 💬 Ask me about Flutter, Web, Tech in general.
